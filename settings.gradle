@@ -1,0 +1,2 @@
+include ':app', ':udp'
+rootProject.name='Socket-Android'
